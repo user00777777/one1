@@ -9,4 +9,7 @@ position: relative;animation-play-state: running;
     10%{color:black;justify-content:left 0%;justify-content: start;}
     35%{color:orange;left:30%;font-size: 33px;}
     59%{justify-content: space-around;color:blue}
-}
+77%{
+color :red
+
+}}
